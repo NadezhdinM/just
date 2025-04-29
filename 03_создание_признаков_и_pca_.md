@@ -1,5 +1,5 @@
 ---
- title: 'Создание признаков и PCA'
+ title: 'Chapter 3: Создание признаков и PCA'
  layout: home
 ---
 

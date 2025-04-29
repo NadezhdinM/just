@@ -1,5 +1,5 @@
 ---
- title: 'Расчет рейтинга ELO'
+ title: 'Chapter 2: Расчет рейтинга ELO'
  layout: home
 ---
 
